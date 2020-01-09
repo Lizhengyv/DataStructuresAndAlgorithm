@@ -1,0 +1,11 @@
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.deps.json
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.runtimeconfig.json
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.runtimeconfig.dev.json
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.dll
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.pdb
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.csprojAssemblyReference.cache
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.csproj.CoreCompileInputs.cache
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.AssemblyInfoInputs.cache
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.AssemblyInfo.cs
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.dll
+D:\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithm.pdb
